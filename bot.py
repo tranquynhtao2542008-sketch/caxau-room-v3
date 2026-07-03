@@ -9,7 +9,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# ⚙️ TOKEN & ADMIN ID (đã điền sẵn của bạn)
+# ⚙️ TOKEN & ADMIN ID (đã điền sẵn)
 ADMIN_TOKEN = "8805149476:AAGmqFVvyMUKW48mFvHkqQd6hRxlUWnm-wk"
 ROOM_TOKEN = "7945714508:AAGeBzVYjLJjlSM7E2K0QA73i2FuPL6ToyM"
 PROFILE_TOKEN = "8888675958:AAHkxzqCmKhI07tiPJIUjc5C2cQcnxexQwo"
